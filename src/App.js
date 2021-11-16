@@ -1,7 +1,7 @@
 /*
  * @Author: kingford
  * @Date: 2021-11-06 14:49:30
- * @LastEditTime: 2021-11-16 16:12:58
+ * @LastEditTime: 2021-11-16 16:28:07
  */
 import React, { Component } from "react";
 import logo from "./logo.svg";
@@ -21,7 +21,7 @@ class App extends Component {
         <p>This is a test of github jenkins auto deliver</p>
         <p>github webhooks</p>
         <p>github webhooks user token jenkins auth</p>
-        <p>github webhooks user token jenkins auth2 403</p>
+        <p>github webhooks user token jenkins auth2 401</p>
       </div>
     );
   }
