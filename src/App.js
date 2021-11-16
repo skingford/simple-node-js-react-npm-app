@@ -1,6 +1,11 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+/*
+ * @Author: kingford
+ * @Date: 2021-11-06 14:49:30
+ * @LastEditTime: 2021-11-16 12:00:16
+ */
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 class App extends Component {
   render() {
@@ -13,6 +18,7 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>This is a test of github jenkins auto deliver</p>
       </div>
     );
   }
