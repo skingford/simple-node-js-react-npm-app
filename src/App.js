@@ -1,7 +1,7 @@
 /*
  * @Author: kingford
  * @Date: 2021-11-06 14:49:30
- * @LastEditTime: 2021-11-16 17:05:16
+ * @LastEditTime: 2021-11-16 17:07:58
  */
 import React, { Component } from "react";
 import logo from "./logo.svg";
@@ -24,7 +24,7 @@ class App extends Component {
         <p>github webhooks user token jenkins auth2 401</p>
         <p>jenkins id and jenkins token with github</p>
         <p>attention gen user of project token</p>
-        <p>add full user id test token</p>
+        <p>add full user id test token change build token</p>
       </div>
     );
   }
